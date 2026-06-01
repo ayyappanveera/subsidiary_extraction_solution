@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+streamlit
+pandas
+openpyxl
+requests
+beautifulsoup4
+ddgs
+ollama
+pymupdf
+pytesseract
+pillow
+chromadb
+sentence-transformers
+sqlalchemy
+
+python-multipart
